@@ -21,6 +21,7 @@
     "@picocss/pico": "^1.5.10",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
+    "uikit": "^3.17.1",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
