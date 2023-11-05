@@ -2,8 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-numberphone',
-  templateUrl: './numberphone.component.html',
-  styleUrls: ['./numberphone.component.css']
+  templateUrl: './numberphone.component.html'
 })
 export class NumberphoneComponent implements OnInit {
 
